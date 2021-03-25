@@ -2,10 +2,10 @@ id: ddf2719e30cf481e8b397e9b50e2164e
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: 5e7cfe3c539a4a84ab87093f4e9ebb66
-  span:
-    start: 4
-    end: 537
-  page_index: 4b
-  page_info: null
-  reference: '21290008'
+  5e7cfe3c539a4a84ab87093f4e9ebb66:
+    page_index: 4b
+    page_info: null
+    reference: '21290008'
+    span:
+      start: 4
+      end: 537
